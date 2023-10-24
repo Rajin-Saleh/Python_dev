@@ -1,0 +1,3 @@
+from 25 october 2023 the code will be uploaded in a daily basis.
+First 7 days will be the code of what i leanred thorugh out the tuitorials and so on. Also few projetcs based on that.
+Than the sytem will be continued to what it is.
